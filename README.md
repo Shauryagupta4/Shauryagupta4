@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm a Tech & Engineering student with a curious and analytical mindset who loves diving deep into how things work. I'm passionate about AI & Machine Learning, Data Science, and Web & App Development — always exploring new ideas and turning them into real projects. When I'm not coding or experimenting with tech, you'll find me gaming, creating music, or expressing myself through art. I'm a builder at heart — constantly learning, constantly creating. Feel free to explore my repos <br><br>
+Hey there! 👋 I'm a Tech & Engineering student with a curious and analytical mindset who loves diving deep into how things work. I'm passionate about AI & Machine Learning and Data Science — always exploring new ideas and turning them into real projects. When I'm not coding or experimenting with tech, you'll find me gaming, creating music, or expressing myself through art. I'm a builder at heart — constantly learning, constantly creating. Feel free to explore my repos <br><br>
 
 
 ## 🌐 Socials:
