@@ -14,8 +14,6 @@ Goal: Become a solid AI/ML engineer or Backend SDE who actually understands syst
 
 Real talk: Consistency over hype. Every day > every month.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shauryagupta4&color=0077B5&style=for-the-badge&label=Profile+Views)
-
 </div>
 
 ---
@@ -73,6 +71,7 @@ Real talk: Consistency over hype. Every day > every month.
 <div align="center">
 
 ⚡ I code better while listening to music — my productivity graph looks like a Spotify playlist 🎵
+![Profile Views](https://komarev.com/ghpvc/?username=Shauryagupta4&color=0077B5&style=for-the-badge&label=Profile+Views)
 
 </div>
 
