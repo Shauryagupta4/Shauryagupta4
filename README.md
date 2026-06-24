@@ -1,15 +1,67 @@
-# 💫 About Me:
-Hey there! 👋 I'm a Tech & Engineering student with a curious and analytical mindset who loves diving deep into how things work. I'm passionate about AI & Machine Learning and Data Science — always exploring new ideas and turning them into real projects. When I'm not coding or experimenting with tech, you'll find me gaming, creating music, or expressing myself through art. I'm a builder at heart — constantly learning, constantly creating. Feel free to explore my repos <br><br>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=SHAURYA%20GUPTA&fontSize=50&fontColor=fff&animation=fadeIn)
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz__shaurya_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-gupta-cse-aiml) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaurya04.2007@gmail.com) 
+### Student | New Delhi
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shauryagupta4&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shauryagupta4&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shauryagupta4&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+2nd year BTech AI/ML student | Writing code, solving DSA problems, and shipping projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Day-to-day: C++ for algorithms, Python for everything else, Git workflows, and learning by breaking things.
+
+Building: EDA tools, backend apps with Streamlit, exploring databases, and documenting everything properly.
+
+Goal: Become a solid AI/ML engineer or Backend SDE who actually understands systems.
+
+Real talk: Consistency over hype. Every day > every month.
+
+</div>
+
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-333?style=for-the-badge&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-333?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-333?style=for-the-badge&logo=streamlit&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shauryagupta4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryagupta4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+### 🌱 Currently
+
+- 📚 Learning: **DSA in C++ via LeetCode | Building Projects with Streamlit & PostgreSQL **
+- 🤝 Open to collaborate on: **Practical Python Projects | EDA & Data Visualization Tools | Learning Projects in AI/ML |  Well-Documented Code & Open Source | Building Things That Actually Solve Problems**
+- 💬 Ask me about: **Data Structures & Algorithms | Building Python Projects | EDA & Data Visualization | Backend with Streamlit | Placement Prep Strategy for AI/ML**
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya04.2007@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaurya-gupta-cse-aiml/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryagupta4)
+
+</div>
+
+---
+
+---
+
+---
+
+<div align="center">
+
+⚡ I code better while listening to music — my productivity graph looks like a Spotify playlist 🎵
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
