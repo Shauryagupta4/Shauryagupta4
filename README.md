@@ -14,6 +14,8 @@ Goal: Become a solid AI/ML engineer or Backend SDE who actually understands syst
 
 Real talk: Consistency over hype. Every day > every month.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shauryagupta4&color=0077B5&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 ---
@@ -33,6 +35,7 @@ Real talk: Consistency over hype. Every day > every month.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ### 📈 GitHub Stats
@@ -50,7 +53,7 @@ Real talk: Consistency over hype. Every day > every month.
 ### 🌱 Currently
 
 - 📚 Learning: **DSA in C++ via LeetCode | Building Projects with Streamlit & PostgreSQL**
-- 🤝 Open to collaborate on: **Practical Python Projects | EDA & Data Visualization Tools | Learning Projects in AI/ML |  Well-Documented Code & Open Source | Building Things That Actually Solve Problems**
+- 🤝 Open to collaborate on: **Practical Python Projects | EDA & Data Visualization Tools | Learning Projects in AI/ML | Well-Documented Code & Open Source | Building Things That Actually Solve Problems**
 - 💬 Ask me about: **Data Structures & Algorithms | Building Python Projects | EDA & Data Visualization | Backend with Streamlit | Placement Prep Strategy for AI/ML**
 
 ---
@@ -59,13 +62,11 @@ Real talk: Consistency over hype. Every day > every month.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya04.2007@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-gupta-cse-aiml/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryagupta4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya04.2007@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-gupta-cse-aiml/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shauryagupta4)
 
 </div>
-
----
-
----
 
 ---
 
