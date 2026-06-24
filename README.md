@@ -38,7 +38,7 @@ Real talk: Consistency over hype. Every day > every month.
 
 ### 🌱 Currently
 
-- 📚 Learning: **DSA in C++ via LeetCode | Building Projects with Streamlit & PostgreSQL **
+- 📚 Learning: **DSA in C++ via LeetCode | Building Projects with Streamlit & PostgreSQL**
 - 🤝 Open to collaborate on: **Practical Python Projects | EDA & Data Visualization Tools | Learning Projects in AI/ML |  Well-Documented Code & Open Source | Building Things That Actually Solve Problems**
 - 💬 Ask me about: **Data Structures & Algorithms | Building Python Projects | EDA & Data Visualization | Backend with Streamlit | Placement Prep Strategy for AI/ML**
 
